@@ -24,4 +24,5 @@ Research tools list for make report with database
     <summary>Spreadsheets Style</summary>
     
    - [Nocodb](https://github.com/nocodb/nocodb)  ![Tag](https://img.shields.io/github/v/tag/nocodb/nocodb) ![Release](https://img.shields.io/github/v/release/nocodb/nocodb) ![Star](https://img.shields.io/github/stars/nocodb/nocodb)
+   - [Grist](https://github.com/gristlabs/grist-core)  ![Tag](https://img.shields.io/github/v/tag/gristlabs/grist-core) ![Release](https://img.shields.io/github/v/release/gristlabs/grist-core) ![Star](https://img.shields.io/github/stars/gristlabs/grist-core)
 </details>
