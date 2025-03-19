@@ -26,4 +26,5 @@ Research tools list for make report with database
    - [Nocodb](https://github.com/nocodb/nocodb)  ![Tag](https://img.shields.io/github/v/tag/nocodb/nocodb) ![Release](https://img.shields.io/github/v/release/nocodb/nocodb) ![Star](https://img.shields.io/github/stars/nocodb/nocodb)
    - [Grist](https://github.com/gristlabs/grist-core)  ![Tag](https://img.shields.io/github/v/tag/gristlabs/grist-core) ![Release](https://img.shields.io/github/v/release/gristlabs/grist-core) ![Star](https://img.shields.io/github/stars/gristlabs/grist-core)
    - [Rowy](https://github.com/rowyio/rowy)  ![Tag](https://img.shields.io/github/v/tag/rowyio/rowy) ![Release](https://img.shields.io/github/v/release/rowyio/rowy) ![Star](https://img.shields.io/github/stars/rowyio/rowy)
+   - [Baserow](https://github.com/bram2w/baserow)  ![Tag](https://img.shields.io/github/v/tag/bram2w/baserow) ![Release](https://img.shields.io/github/v/release/bram2w/baserow) ![Star](https://img.shields.io/github/stars/bram2w/baserow)
 </details>
